@@ -3,8 +3,8 @@
 :mortar_board: Meu nome é Michael, atualmente curso Ciência da Computação na UFC. Sou Desenvolvedor Back-end :computer:
 
 :heavy_check_mark: Tenho preferência nas linguagens Java/Kotlin e no framework Spring. Descobri minha paixão nessas tecnologias nos últimos meses e pretendo continuar aprendendo. <br>
-:office: Atualmente estou buscando meu primeiro emprego como Desenvolvedor Java. <br>
-:house: Também atuo como desenvolvedor voluntário em um projeto PAIP da UFC, desenvolvendo o back-end de uma aplicação web institucional com Spring Boot e Kotlin. <br>
+:office: Atualmente trabalho como Desenvolvedor Java Jr. na [Stefanini](https://stefanini.com/pt-br). <br>
+:house: Também atuo como voluntário em um projeto PAIP da UFC, auxiliando no back-end de uma aplicação web institucional com Spring Boot e Kotlin. <br>
 :books: Meu objetivo atualmente é aprimorar meus conhecimentos em testes unitários com JUnit. <br>
 :mailbox: Entre em contato comigo: [Meu LinkedIn](https://www.linkedin.com/in/akamiike/) | [Meu e-mail](mailto:mike.nss2809@gmail.com) <br> <br>
 	
