@@ -1,6 +1,6 @@
 ## Olá a todos! :wave: :blue_heart:
 
-:mortar_board: Meu nome é Michael, atualmente curso Ciência da Computação na UFC. Sou Desenvolvedor Back-end :computer:
+:mortar_board: Meu nome é Michael, sou formado em Ciência da Computação pela UFC. Atualmente atuo como desenvolvedor Back-end :computer:
 
 :heavy_check_mark: Tenho preferência nas linguagens Java/Kotlin e no framework Spring. Descobri minha paixão nessas tecnologias nos últimos meses e pretendo continuar aprendendo. <br>
 :office: Atualmente trabalho como Desenvolvedor Java Jr. na [Stefanini](https://stefanini.com/pt-br). <br>
